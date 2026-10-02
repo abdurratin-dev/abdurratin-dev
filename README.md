@@ -1,89 +1,73 @@
-<h1 align="center">Hi 👋, I'm Abdur Ratin</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurratin-dev&label=Profile%20views&color=0e75b6&style=flat" alt="abdurratin-dev" /> </p>
-
-
-- 🔭 I’m currently working on **MERN Stuck**
-
-- 🌱 I’m currently learning **NextJs,nodeJs,API,Bekend etc**
-
-- 🤝 I’m looking for help **to do better in problem solving**
-
-- 💬 Ask me about **react js for web development purposes**
-
-- 📫 How to reach me **ratinkhan039@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdur-ratin-a2b8183aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdur-ratin-a2b8183aa/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61583904719049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61583904719049" height="30" width="40" /></a>
-</p>
-
-# 💻 Tech Stack:
-## Front-end
- ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-## Back-end
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-
-## Databases
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## Cloud Platforms
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-## Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## 📊 GitHub Statistics
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<a href="https://github.com/Maha-bub">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=abdurratin-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    alt="Mahabubul's GitHub Stats"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:00E5A8&height=220&section=header&text=Abdur%20Ratin&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Modern%20Web%20Experiences&descAlignY=60&descSize=18" width="100%"/>
 
-<a href="https://github.com/Maha-bub">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</a>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00E5A8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+%7C+Always+Building" />
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- ===================== INTRO ===================== -->
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-bub&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#00E5A8;">Abdur Ratin</span>
+</h1>
 
-</div>
+<h3 align="center">
+  🚀 Full Stack Developer from Bangladesh 🇧🇩
+</h3>
 
----
-
-## My Contribution snake
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+<p align="center">
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://komarev.com/ghpvc/?username=abdurratin-dev&label=Profile%20Views&color=00E5A8&style=for-the-badge"
+    alt="Profile Views"
   />
-</picture>
+</p>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+- 🔭 Currently working on **MERN Stack Projects**
+- 🌱 Currently learning **Next.js, Node.js, REST API, Backend Development**
+- 🧠 Improving my **Problem Solving & Logical Thinking**
+- 💬 Ask me about **React.js & Web Development**
+- 🤝 Looking to collaborate on **Modern Web Applications**
+- 📫 Reach me at **ratinkhan039@gmail.com**
+- ⚡ Goal: **Build clean, scalable and user-friendly applications**
+
+</td>
+
+<td width="45%">
+
+```javascript
+const abdurRatin = {
+  role: "Full Stack Developer",
+
+  currentlyLearning: [
+    "Next.js",
+    "Node.js",
+    "REST API",
+    "Backend"
+  ],
+
+  interests: [
+    "Web Development",
+    "Problem Solving",
+    "Clean UI/UX",
+    "Scalable Apps"
+  ],
+
+  mindset: "Learn • Build • Improve"
+};
