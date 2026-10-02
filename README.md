@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react js for web development purposes**
 
-- 📫 How to reach me **abdurratin903@gmail.com**
+- 📫 How to reach me **ratinkhan039@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,8 +37,40 @@
 ## Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurratin-dev&" alt="abdurratin-dev" /></p>
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/Maha-bub">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=abdurratin-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
+    alt="Mahabubul's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/Maha-bub">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maha-bub&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Maha-bub&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"
+/>
+
+</div>
+
+---
 
 ## My Contribution snake
 <picture>
