@@ -163,7 +163,8 @@ const abdurRatin = {
 
 ## 🧠 Developer Mindset
 <div align="center">
-<h2 align="center">💡 My Learning Journey</h2>
+  
+### 💡 My Learning Journey
 <p align="center">
   💡 <b>Learn</b>
   <br>
