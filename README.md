@@ -101,7 +101,7 @@ const abdurRatin = {
 
 <!-- ===================================================== --> <!-- WHAT I DO --> <!-- ===================================================== -->
 ## 🚀 What I Do
-<table> <tr> <td width="50%">
+<table> <tr> <td>
   
 ### 🎨 Frontend Development
 <ul>
@@ -113,7 +113,7 @@ const abdurRatin = {
   <li>🔄 State Management</li>
   <li>🔌 API Integration</li>
 </ul>
-</td> <td width="50%">
+</td> <td>
   
 ### ⚙️ Backend Development
 <ul>
@@ -226,9 +226,10 @@ const abdurRatin = {
 <!-- ===================================================== --> <!-- FOOTER --> <!-- ===================================================== -->
 
 <div align="center">
-  
+
+##
 ### 💻 Building. Learning. Improving.
-### Thanks for visiting my profile! ❤️
+Thanks for visiting my profile! ❤️
 
 <br/>
 
