@@ -102,6 +102,7 @@ const abdurRatin = {
 <!-- ===================================================== --> <!-- WHAT I DO --> <!-- ===================================================== -->
 ## 🚀 What I Do
 <table> <tr> <td width="50%">
+  
 ### 🎨 Frontend Development
 <ul>
   <li>📱 Responsive Web Applications</li>
@@ -113,6 +114,7 @@ const abdurRatin = {
   <li>🔌 API Integration</li>
 </ul>
 </td> <td width="50%">
+  
 ### ⚙️ Backend Development
 <ul>
   <li>🟢 Node.js & Express.js</li>
@@ -129,19 +131,43 @@ const abdurRatin = {
 
 ## 🌱 Currently Learning
 <div align="center">
-|       Technology       | Learning Focus                |
-|      ▲ **Next.js**     | Full Stack Web Development    |
-|     🟢 **Node.js**     | Backend Development           |
-|     🔗 **REST API**    | API Design & Integration      |
-|     🍃 **MongoDB**     | Database & Data Modeling      |
-|  🔐 **Authentication** | Secure Authentication Systems |
-| 🧠 **Problem Solving** | Logic & Algorithmic Thinking  |
+<table align="center">
+  <tr>
+    <th>Technology</th>
+    <th>Learning Focus</th>
+  </tr>
+  <tr>
+    <td>▲ Next.js</td>
+    <td>Full Stack Web Development</td>
+  </tr>
+  <tr>
+    <td>🟢 Node.js</td>
+    <td>Backend Development</td>
+  </tr>
+  <tr>
+    <td>🔗 REST API</td>
+    <td>API Design & Integration</td>
+  </tr>
+  <tr>
+    <td>🍃 MongoDB</td>
+    <td>Database & Data Modeling</td>
+  </tr>
+  <tr>
+    <td>🔐 Authentication</td>
+    <td>Secure Authentication Systems</td>
+  </tr>
+  <tr>
+    <td>🧠 Problem Solving</td>
+    <td>Logic & Algorithmic Thinking</td>
+  </tr>
+</table>
 </div>
 
 <!-- ===================================================== --> <!-- DEVELOPER JOURNEY --> <!-- ===================================================== -->
 
 ## 🧠 Developer Mindset
 <div align="center">
+  ```text
         💡 Learn
            ↓
         🛠️ Build
@@ -153,6 +179,7 @@ const abdurRatin = {
        🚀 Improve
            ↓
       ✨ Build Better
+  ```
 </div>
 
 <!-- ===================================================== --> <!-- GITHUB STATISTICS --> <!-- ===================================================== -->
@@ -200,8 +227,7 @@ const abdurRatin = {
 
 <div align="center">
   
-## 💻 Building. Learning. Improving.
-
+### 💻 Building. Learning. Improving.
 ### Thanks for visiting my profile! ❤️
 
 <br/>
