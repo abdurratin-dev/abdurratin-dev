@@ -76,11 +76,6 @@ const abdurRatin = {
 </tr>
 </table>
 
-<!-- ===================================================== --> <!-- CONNECT WITH ME --> <!-- ===================================================== -->
-
-## 🌐 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/abdur-ratin-a2b8183aa/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.facebook.com/profile.php?id=61583904719049" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="mailto:ratinkhan039@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/abdurratin-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
-
 <!-- ===================================================== --> <!-- TECH STACK --> <!-- ===================================================== -->
 
 ## 💻 Tech Stack
@@ -101,6 +96,7 @@ const abdurRatin = {
 
 <!-- ===================================================== --> <!-- WHAT I DO --> <!-- ===================================================== -->
 ## 🚀 What I Do
+<div align="center">
 <table> <tr> <td>
   
 ### 🎨 Frontend Development
@@ -123,9 +119,9 @@ const abdurRatin = {
   <li>🔐 Authentication Systems</li>
   <li>🗄️ Database Management</li>
   <li>⚙️ Server-side Logic</li>
-  <li>🔌 API Integration</li>
 </ul>
 </td> </tr> </table>
+</div>
 
 <!-- ===================================================== --> <!-- CURRENTLY LEARNING --> <!-- ===================================================== -->
 
@@ -167,19 +163,30 @@ const abdurRatin = {
 
 ## 🧠 Developer Mindset
 <div align="center">
-  ```text
-        💡 Learn
-           ↓
-        🛠️ Build
-           ↓
-       🐛 Debug
-           ↓
-        🔍 Learn
-           ↓
-       🚀 Improve
-           ↓
-      ✨ Build Better
-  ```
+<h2 align="center">💡 My Learning Journey</h2>
+<p align="center">
+  💡 <b>Learn</b>
+  <br>
+  ↓
+  <br>
+  🛠️ <b>Build</b>
+  <br>
+  ↓
+  <br>
+  🐛 <b>Debug</b>
+  <br>
+  ↓
+  <br>
+  🔍 <b>Learn</b>
+  <br>
+  ↓
+  <br>
+  🚀 <b>Improve</b>
+  <br>
+  ↓
+  <br>
+  ✨ <b>Build Better</b>
+</p>
 </div>
 
 <!-- ===================================================== --> <!-- GITHUB STATISTICS --> <!-- ===================================================== -->
@@ -190,14 +197,19 @@ const abdurRatin = {
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=abdurratin-dev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A8&icon_color=00E5A8&text_color=C9D1D9" alt="Abdur Ratin GitHub Stats" />
 
 </a> <a href="https://github.com/abdurratin-dev">
-
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurratin-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5A8&text_color=C9D1D9" alt="Top Languages" />
+</a> </div> <br/> 
 
-</a> </div> <br/> <!-- ===================== STREAK ===================== --> <div align="center">
+<!-- ===================== STREAK ===================== --> 
 
+<div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdurratin-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5A8&fire=00E5A8&currStreakLabel=00E5A8" alt="GitHub Streak" />
-
 </div>
+
+<!-- ===================================================== --> <!-- CONNECT WITH ME --> <!-- ===================================================== -->
+
+## 🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/abdur-ratin-a2b8183aa/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.facebook.com/profile.php?id=61583904719049" target="_blank"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="mailto:ratinkhan039@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://github.com/abdurratin-dev" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
 
 <!-- ===================================================== --> <!-- CONTRIBUTION SNAKE --> <!-- ===================================================== -->
 
